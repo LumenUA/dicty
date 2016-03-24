@@ -32,7 +32,7 @@ $text_input = $_POST['log'];
 
 ?>
 <p>
-	<input name="result" type="text" size="15" maxlength="15" value="<?echo $result?>">
+	<input name="result" type="text" size="15" maxlength="15" value="<?echo $rest2?>">
 </p>
 </form>
 </body>
